@@ -29,4 +29,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login("token dyall lbot a zbi ola dyallk");
+client.login("NTg3NjU4NzY5NzE1MTY3MjQ0.XP5yAg.ldaHEY835BkIqswKAk_3tDh8WYc");
